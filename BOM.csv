@@ -1,8 +1,8 @@
-Name,	Quantity,	Component
-U1	1	Arduino Uno R3
-2	1	Breadboard Small
-SERVO1, SERVO2, SERVO3, SERVO4, SERVO5	5	Positional Micro Servo
-S1, S2, S3, S4, S5, S6	6	Pushbutton
-Bat2	1	4 batteries, AA, no 1.5V Battery
-C1	1	10000 nF Capacitor
-S7	1	Slideswitch
+Name,Quantity,Component
+U1,1,Arduino Uno R3
+2,1,Breadboard Small
+"SERVO1, SERVO2, SERVO3, SERVO4, SERVO5",5,Positional Micro Servo
+"S1, S2, S3, S4, S5, S6",6,Pushbutton
+Bat2,1,"4 batteries, AA, no 1.5V Battery"
+C1,1,10000 nF Capacitor
+S7,1,Slideswitch

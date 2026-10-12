@@ -1,4 +1,4 @@
-Name	Quantity	Component
+Name,	Quantity,	Component
 U1	1	Arduino Uno R3
 2	1	Breadboard Small
 SERVO1, SERVO2, SERVO3, SERVO4, SERVO5	5	Positional Micro Servo

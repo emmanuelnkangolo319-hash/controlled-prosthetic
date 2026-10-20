@@ -12,10 +12,10 @@ Electronics:
 
 <img width="464" height="312" alt="Screenshot 2026-10-12 182250" src="https://github.com/user-attachments/assets/a658b2e6-1992-47e2-85f1-54aadd063164" />
 
-Basically everthing is done, just left to see if it will work in real life. I tried to ask gemini if everything would work in real life, and it said yes, but you never know.
+Basically everthing is done, just left to see if it will work in real life. I have ran simulations and verified the circuits, so the theory is down, but you never know.
 
 3d model:
 
 <img width="452" height="307" alt="Screenshot 2026-08-30 191649" src="https://github.com/user-attachments/assets/0bddc55f-c5d7-4ffb-b49f-f4c587563e13" />
 
-The hook parts will be conected to the string so it actually moves. I ran into a lot of problems trying to animate the movement to see how it would work in real life, but i finally did it, so i really have high hopes for this.
+The hook parts will be conected to the string so it actually moves. I ran into a lot of problems trying to animate the movement to see how it would work in real life, but i finally got it ready, so i really have high hopes for this.
